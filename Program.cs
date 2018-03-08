@@ -1,12 +1,15 @@
-﻿using System;
+using System.Data.Odbc;
+using System;
 
-namespace odbc_hwapp
+namespace test
 {
-    class Program
+    public class Program
     {
-        static void Main(string[] args)
+        public static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("temp dummy CWL");
+new SmokeTest().DraftTest();
         }
+
     }
 }

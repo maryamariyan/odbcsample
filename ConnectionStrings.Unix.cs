@@ -1,4 +1,4 @@
-namespace XUnitTestProject1
+namespace test
 {
     public static class ConnectionStringsUnix
     {
